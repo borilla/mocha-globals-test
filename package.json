@@ -1,0 +1,13 @@
+{
+  "name": "mocha-globals-test",
+  "version": "0.1.0",
+  "description": "Test of mocha global setup/teardown hooks",
+  "scripts": {
+    "test": "mocha *.js"
+  },
+  "author": "borilla",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  }
+}
