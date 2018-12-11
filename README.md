@@ -42,7 +42,7 @@ The output of this test is:
 ```sh
 $ npm test
 
-> mocha *.js
+> mocha
 
 >>>>>>>> BEFORE  ALL <<<<<<<<
   suite 1

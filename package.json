@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "Test of mocha global setup/teardown hooks",
   "scripts": {
-    "test": "mocha *.js"
+    "test": "mocha"
   },
   "author": "borilla",
   "license": "MIT",
